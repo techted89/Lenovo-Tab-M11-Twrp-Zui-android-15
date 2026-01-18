@@ -1,0 +1,5 @@
+PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/omni_TB330FU.mk
+
+COMMON_LUNCH_CHOICES := \
+    omni_TB330FU-eng
